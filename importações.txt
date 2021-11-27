@@ -1,0 +1,14 @@
+https://www.npmjs.com/package/react-tooltip
+yarn add react-tooltip
+
+/******** Estilizar componentes html *********/
+
+yarn add styled-components
+yarn add @types/styled-components
+
+/******** Estilizar componentes html *********/
+
+ou este
+
+https://www.youtube.com/watch?v=8y4Dr9jJtF0
+yarn add '@tippy.js/react'
